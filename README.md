@@ -1,4 +1,5 @@
 # Archappinstaller
+![swappy-20241025_202403](https://github.com/user-attachments/assets/74fdb179-e88f-47cf-bec1-6fcf1a7b5ded)
 
 This application provides a user-friendly interface for installing predefined applications. It is written using GTK.
 
